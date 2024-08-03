@@ -1,4 +1,4 @@
-# Awesome Thai Dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+no no# Awesome Thai Dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 รวมไลบรารี่ บทความ ทรัพยากรอื่น ๆ ที่เป็นภาษาไทยและ/หรือดูแลโดยคนไทย (เอาแต่ใจโดยเจ้าของ repo)
 
 :star: = แนะนำเป็นพิเศษ
